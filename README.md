@@ -1,1 +1,4 @@
-# TransfloAssesment
+- update app setting config file
+- run update-datebase
+- run backend
+- run frontend
