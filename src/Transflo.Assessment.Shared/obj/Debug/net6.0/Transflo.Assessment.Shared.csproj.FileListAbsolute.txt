@@ -1,0 +1,12 @@
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\bin\Debug\net6.0\Transflo.Assessment.Shared.deps.json
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\bin\Debug\net6.0\Transflo.Assessment.Shared.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\bin\Debug\net6.0\Transflo.Assessment.Shared.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.csproj.AssemblyReference.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.AssemblyInfoInputs.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.AssemblyInfo.cs
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.csproj.CoreCompileInputs.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\refint\Transflo.Assessment.Shared.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\Transflo.Assessment.Shared.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Shared\obj\Debug\net6.0\ref\Transflo.Assessment.Shared.dll

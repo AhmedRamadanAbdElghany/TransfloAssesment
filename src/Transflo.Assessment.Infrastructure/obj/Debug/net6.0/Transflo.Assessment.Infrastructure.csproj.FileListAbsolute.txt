@@ -1,0 +1,17 @@
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Infrastructure.deps.json
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Infrastructure.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Infrastructure.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Core.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Shared.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Core.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\bin\Debug\net6.0\Transflo.Assessment.Shared.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.csproj.AssemblyReference.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.AssemblyInfoInputs.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.AssemblyInfo.cs
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.csproj.CoreCompileInputs.cache
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.csproj.CopyComplete
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\refint\Transflo.Assessment.Infrastructure.dll
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\Transflo.Assessment.Infrastructure.pdb
+F:\C3S Projects\test\Transflo.Assessment\src\Transflo.Assessment.Infrastructure\obj\Debug\net6.0\ref\Transflo.Assessment.Infrastructure.dll

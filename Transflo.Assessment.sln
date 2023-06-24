@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5C5DDAA6-917B-4AE9-A173-B8245D6424A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Assessment.Api", "src\Transflo.Assessment.Api\Transflo.Assessment.Api.csproj", "{273E7AD1-1877-4AFF-ADA0-D4782B946FFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Assessment.Infrastructure", "src\Transflo.Assessment.Infrastructure\Transflo.Assessment.Infrastructure.csproj", "{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Assessment.Core", "src\Transflo.Assessment.Core\Transflo.Assessment.Core.csproj", "{D50FD350-4A5A-4DAC-8D37-DF720DAE529B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transflo.Assessment.Shared", "src\Transflo.Assessment.Shared\Transflo.Assessment.Shared.csproj", "{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E49E004E-A818-4502-B018-B87E4316A10A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273E7AD1-1877-4AFF-ADA0-D4782B946FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273E7AD1-1877-4AFF-ADA0-D4782B946FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273E7AD1-1877-4AFF-ADA0-D4782B946FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273E7AD1-1877-4AFF-ADA0-D4782B946FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50FD350-4A5A-4DAC-8D37-DF720DAE529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50FD350-4A5A-4DAC-8D37-DF720DAE529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50FD350-4A5A-4DAC-8D37-DF720DAE529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50FD350-4A5A-4DAC-8D37-DF720DAE529B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{273E7AD1-1877-4AFF-ADA0-D4782B946FFB} = {5C5DDAA6-917B-4AE9-A173-B8245D6424A1}
+		{CDE4E453-DE93-4DD3-ACE1-AC11C4A85D59} = {5C5DDAA6-917B-4AE9-A173-B8245D6424A1}
+		{D50FD350-4A5A-4DAC-8D37-DF720DAE529B} = {5C5DDAA6-917B-4AE9-A173-B8245D6424A1}
+		{5EB54D4B-7FE8-4C69-873B-F47BDE26E33C} = {5C5DDAA6-917B-4AE9-A173-B8245D6424A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AC3EF2-0C2F-433F-8C71-ED28F9A0F181}
+	EndGlobalSection
+EndGlobal
